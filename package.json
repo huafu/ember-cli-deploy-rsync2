@@ -19,7 +19,7 @@
     "ember-cli-deploy-plugin": "^0.2.9",
     "fullname": "^3.2.0",
     "rsync": "^0.6.0",
-    "tmp": "0.0.31",
+    "tmp": "0.2.4",
     "username": "^2.2.2"
   },
   "engines": {
